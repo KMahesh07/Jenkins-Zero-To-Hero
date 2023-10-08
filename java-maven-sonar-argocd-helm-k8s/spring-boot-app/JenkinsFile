@@ -12,4 +12,4 @@ pipeline {
          git branch: 'main', url: 'https://github.com/KMahesh07/Jenkins-Zero-To-Hero.git'
       }
     }
-    
+    }
